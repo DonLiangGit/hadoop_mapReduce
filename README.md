@@ -1,7 +1,8 @@
 hadoop_mapReduce
 ================
 
-Environment: CentOS on VM.
+Environment: CentOS on Virtual Machine.
+Data are from cloudera.
 
 * Problem: Giving a sales breakdown by product category across all of stores
   [P1_mapper](/store_sales/P1_mapper.py) & [P1_reducer](/store_sales/P1_reducer.py)
